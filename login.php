@@ -19,7 +19,3 @@ $_SESSION["userName"] = $name;
 header("Location: index.php");
 
 ?>
-
-
-
-

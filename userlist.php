@@ -8,7 +8,6 @@
 <html>
 <head>
 	<title>User List</title>
-
 </head>
 <body>
 <form method="POST" action="logout.php">
